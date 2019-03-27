@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	apiVersion = "v37.0"
-	userAgent  = "github.com/jpmonette/force"
+	apiVersion = "v45.0"
+	userAgent  = "github.com/stiks/force"
 )
 
 // Client is an HTTP client used to interact with the Salesforce API
